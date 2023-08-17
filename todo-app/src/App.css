@@ -1,0 +1,21 @@
+.highlighted {
+  background-color: cyan;
+  color: black;
+  font-family: monospace;
+  padding: 2px;
+}
+
+.delete-button {
+  border: none;
+  outline: none;
+  font-size: 0.7em;
+  color: white;
+  background-color: red;
+  border-radius: 2px;
+  padding: 3px 3px;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  background-color: darkred;
+}
